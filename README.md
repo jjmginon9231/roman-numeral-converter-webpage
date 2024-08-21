@@ -1,5 +1,7 @@
 # Roman Numeral Converter Webpage
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/469010fe-a1e8-4c0e-998b-0a8ad85278c0/deploy-status)](https://app.netlify.com/sites/roman-numeral-converter-webpage/deploys)
+
 ## Overview
 
 This project is a Roman Numeral Converter Webpage, created as part of my journey through freeCodeCamp's JavaScript Algorithms and Data Structures Certification. The layout is inspired by my previous Palindrome Checker Webpage and incorporates a glassmorphism design.
