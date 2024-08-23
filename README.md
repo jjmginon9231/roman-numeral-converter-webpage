@@ -40,3 +40,9 @@ This project is a Roman Numeral Converter Webpage, created as part of my journey
 
 - **freeCodeCamp**: For providing the project guidelines and resources.
 - **Dave Gray**: For his tutorials and best practices that helped shape this project.
+
+## Contact
+
+Feel free to reach out for collaborations or work opportunities.
+
+[LinkedIn](https://www.linkedin.com/in/john-jerry-ginon-0b5539314/) | [GitHub](https://github.com/jjmginon9231/) | [Upwork](https://www.upwork.com/freelancers/~01432eb5f90e315e15?mp_source=share)
