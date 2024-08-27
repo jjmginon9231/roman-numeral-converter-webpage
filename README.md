@@ -39,7 +39,7 @@ This project is a Roman Numeral Converter Webpage, created as part of my journey
 ## Acknowledgements
 
 - **freeCodeCamp**: For providing the project guidelines and resources.
-- **Dave Gray**: For his tutorials and best practices that helped shape this project.
+- [**Dave Gray**](https://github.com/gitdagray/): For his tutorials and best practices that helped shape this project.
 
 ## Contact
 
