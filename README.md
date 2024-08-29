@@ -32,7 +32,7 @@ This project is a Roman Numeral Converter Webpage, created as part of my journey
 
 ## Inspiration
 
-- **freeCodeCamp**: The core logic is based on the Roman Numeral Converter project from [freeCodeCamp's JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/).
+- [**freeCodeCamp**](https://www.freecodecamp.org/): The core logic is based on the Roman Numeral Converter project from [freeCodeCamp's JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/).
 - **Palindrome Checker Webpage**: The layout and design are inspired by my previous project, the [Palindrome Checker Webpage](https://palindrome-checker-webpage.netlify.app/).
 - **Glassmorphism**: The design incorporates glassmorphism for a modern and visually appealing interface.
 
